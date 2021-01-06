@@ -10,9 +10,9 @@ In the present work I examine three questions:
 
 ## Data
 There are three columns which Avocado aficionados will be aware of:
-4046 - Small/Medium Hass Avocado (~3–5oz avocado)
-4225 - Large Hass Avocado (~8–10oz avocado) 
-4770 - Extra Large Hass Avocado (~10–15oz avocado)
+1. 4046 - Small/Medium Hass Avocado (~3–5oz avocado)
+2. 4225 - Large Hass Avocado (~8–10oz avocado) 
+3. 4770 - Extra Large Hass Avocado (~10–15oz avocado)
 
 
 
